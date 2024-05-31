@@ -1,0 +1,6 @@
+[cache]
+    type = copy
+[core]
+    remote = dvc
+['remote "dvc"']
+    url = https://github.com/Dmytro-Hladkykh/Lab3_CNN
